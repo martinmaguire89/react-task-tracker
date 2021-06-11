@@ -13,10 +13,10 @@
       "reminder": true
     },
     {
-      "id": 3,
-      "text": "food shopping",
-      "day": "5th Feb at 11:30pm",
-      "reminder": false
+      "text": "take car to mechanic",
+      "day": "Thursday ",
+      "reminder": true,
+      "id": 3
     }
   ]
 }
